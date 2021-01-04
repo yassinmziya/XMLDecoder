@@ -1,0 +1,22 @@
+<root>
+  <key attr="12">future</key>
+  <nearest>405083914.1103158</nearest>
+  <mouse>-967100573.8277643</mouse>
+  <matter>-470506569</matter>
+  <tears>177039928.40831447</tears>
+  <zoo>-690697533</zoo>
+  <state has_state="false"/>
+  <parent>
+    <child/>
+  </parent>
+</root>
+
+<!--
+
+        root
+    /     |     \
+  key  nearsest  parent
+                      \
+                      child
+
+-->
